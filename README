@@ -1,0 +1,13 @@
+roguelike_c
+===========
+A part of the r/roguelikedev's summer code-along series.
+
+Note
+----
+- Written in C
+- Uses Raylib library
+- Just for fun & pracise
+
+Link
+----
+r/roguelikedev => https://www.reddit.com/r/roguelikedev/
